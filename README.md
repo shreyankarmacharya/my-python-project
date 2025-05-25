@@ -1,1 +1,1 @@
-# my-python-project
+# python-learning-journey
